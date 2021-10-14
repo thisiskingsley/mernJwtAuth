@@ -1,0 +1,5 @@
+# KINGS FILES
+.env
+
+#Seeds file
+seeds.js
